@@ -1,0 +1,9 @@
+# This is my personal code practice file which contains easy problems those I have solved on daily basis.
+
+# I have started this technique on the date of 03 May, 2023
+
+# Problem 1 -> Ask the name of user and greet it with it's name -> Date -> 03 May, 2023
+print("Enter your name")
+user_name = input() 
+
+print("Hello,", user_name.title() + "! A good wishes to you from github and python.")
